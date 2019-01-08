@@ -1,0 +1,15 @@
+oizoMusicPLayer :
+
+-IHM
+Une fenêtre
+
+-Lire MP3, FLAC, WAV, Audio CDs
+
+
+-Playlists
+
+
+-Hotkeys
+
+
+-Audio library
